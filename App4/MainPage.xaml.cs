@@ -37,7 +37,7 @@ namespace App4
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            string a = n.Title;
+            string a = n.Title; 
             n.Title = "asdf";
         }
     }
